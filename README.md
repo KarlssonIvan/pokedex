@@ -17,14 +17,14 @@ Pokedex with python flask app as a server and react.js as a client
 
 2. **Install Dependencies in frontend Folder**
 
-   In the root frontend, run:
+   In the frontend folder, run:
 
    ```bash
    npm install
 
 3. **Install Dependencies in backend Folder**
 
-   In the root backend, run:
+   In the backend folder, run:
 
    ```bash
     python3 -m venv venv
