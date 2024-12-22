@@ -1,9 +1,5 @@
-# pokedex
-Pokedex with python flask app as a server and react.js as a client
-
-# Pokedex
-
-## Installation
+## Pokedex
+ Pokedex with python flask app as a server and react.js as a client
 
 1. **Install Dependencies in Root Folder**
 
@@ -11,8 +7,6 @@ Pokedex with python flask app as a server and react.js as a client
 
    ```bash
    npm install
-
-# Pokedex
 
 
 2. **Install Dependencies in frontend Folder**
@@ -38,6 +32,6 @@ Pokedex with python flask app as a server and react.js as a client
     ```bash
     npm run deploy
 
-5. ** Open your prefered browser **
+5. **Open your prefered browser**
     Navigate to : 'http://127.0.0.1:8000'
 
